@@ -19,6 +19,7 @@ lessTester.runTestSet(
             assert.equal(filename, '../shared/deeper/file.less');
             return '../rewrite/deeper.less';
         },
+        '../shared/file.css': '../rewrite/file.css'
     }})] },
     'rewrite-import/'
 );

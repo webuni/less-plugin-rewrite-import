@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-rewrite-import",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Less plugin for rewriting import statement",
   "main": "lib/index.js",
   "repository": {
